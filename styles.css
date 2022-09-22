@@ -37,13 +37,13 @@
 
 
     h2 {
-        font-family: Big Shoulders Display;
+        font-family: 'Big Shoulders Display', cursive;
         font-weight: 700;
         color: hsl(0, 0%, 95%);
     }
 
     p {
-        font-family: Lexend Deca;
+        font-family: 'Lexend Deca', sans-serif;
         font-size: 15px;
         font-weight: 400;
         color: hsla(0, 0%, 100%, 0.75);
@@ -51,7 +51,7 @@
 
     a {
         text-decoration: none;
-        font-family: Lexend Deca;
+        font-family: 'Lexend Deca', sans-serif;
         font-size: 15px;
         font-weight: 400;
 
@@ -190,13 +190,13 @@
     }
 
     h2 {
-        font-family: Big Shoulders Display;
+        font-family: 'Big Shoulders Display', cursive;
         font-weight: 700;
         color: hsl(0, 0%, 95%);
     }
 
     p {
-        font-family: Lexend Deca;
+        font-family: 'Lexend Deca', sans-serif;
         font-size: 15px;
         font-weight: 400;
         color: hsla(0, 0%, 100%, 0.75);
@@ -204,7 +204,7 @@
 
     a {
         text-decoration: none;
-        font-family: Lexend Deca;
+        font-family: 'Lexend Deca', sans-serif;
         font-size: 15px;
         font-weight: 400;
     }
